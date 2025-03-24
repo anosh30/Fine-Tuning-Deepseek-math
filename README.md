@@ -16,7 +16,6 @@ This repository contains fine-tuning models for creative mathematical problem-so
 │── 📜 Math Meme Repair.ipynb (Solution for Task 2)
 │── 📜 Creative Math Problem Solver.ipynb (Solution for Task 3)
 │── 📜 Creative Math Problem Solver testing.ipynb (Testing notebook for Task 3)
-│── 📜 Streamlit Links.txt (Deployed Gradio links)
 
 ## 🚀 Solutions  
 
